@@ -7,6 +7,7 @@
 # AIM : - To implement Pseudorandom Number Generation using
 
 # ALGORITHM : -
+```
 Step 1: Get the number of random numbers to generate from the user.
 Step 2: Read the minimum and maximum values for the random number range.
 Step 3: Initialize the random seed using the current time.
@@ -15,8 +16,9 @@ Step 4: Generate a random number by calculating the remainder of division with t
 Step 5: Repeat the random number generation for the specified count.
 Step 6: Print each generated random number.
 Step 7: End the program.
-
+```
 # PROGRAM : -
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -41,6 +43,6 @@ printf("%d\n", random_number);
 }
 return 0;
 }
-
+```
 # OUTPUT : -
 ![Screenshot 2024-10-28 135904](https://github.com/user-attachments/assets/57ab34b7-fc39-435c-9f84-94d6c7cb27c6)
