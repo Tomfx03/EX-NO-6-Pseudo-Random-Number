@@ -4,7 +4,8 @@
 # NAME : TOM FRANCIES XAVIOUR L
 # REG.NO : 212223110060
 
-# AIM : - To implement Pseudorandom Number Generation using
+# AIM : 
+To implement Pseudorandom Number Generation using
 
 # ALGORITHM : -
 ```
